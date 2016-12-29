@@ -1,0 +1,35 @@
+.dvPostMessage {
+ border : purple 1px dashed;
+ width :auto;
+ float:left;
+ padding: 15px;
+ margin:15px;
+}
+.dvPostMessage textarea
+{
+  min-width:250px;
+  min-height:100px;
+}
+.dvField {
+float:left;
+margin: 5px;
+width:100%
+}
+.dvField label{
+  float:left;width:30%
+}
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
