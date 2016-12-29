@@ -11,7 +11,7 @@ class App extends Component {
           <h2>My React Sample Forum Post , UI ONLY</h2>
         </div>
         <p className="App-intro">
-        Enter your Username and your message, "This is a UI Only sample created in React"
+        Enter your Username and your message, "UI Only sample created in React"
         </p>
       </div>
     );
